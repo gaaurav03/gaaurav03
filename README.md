@@ -11,7 +11,7 @@
   <li>❤️ I love to bring ideas to browser.</li>
   <li>🌱 I’m currently learning Data Structures and Alogrithms, NextJs.</li>
   <li>💼 I'm a Final year student at VIT</li>
-  <li>🧐 Portfolio Website, https://portfolio-f8804.web.app/</li>
+  <li>🧐 Portfolio Website, https://gaurav-137-portfolio.vercel.app/</li>
   <li>📫 How to Reach me, gaurav21687@gmail.com</li>
   <li>🔭 I'm currently deep diving into microservices architecture</li>
   
