@@ -58,18 +58,21 @@ const Gaurav = {
     </a>
 </p>
 
-## 📊 My Github Stats
+<h2 >📊 GitHub Summary</h2>
 
-  <br/>
-    <a href="https://github.com/gaaurav03/github-readme-stats"><img alt="Gaurav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gaaurav03&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/gaaurav03/github-readme-stats"><img alt="Gaurav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaurav03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaaurav03&theme=github_dark" />
+</p>
 
-<br/>
-<br/>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaaurav03&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaaurav03&theme=github_dark&utcOffset=5.5" />
+</p>
 
-<a href="https://github.com/gaaurav03">
-  <img alt="Gaurav's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gaaurav03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true&area_color=5BCDEC" />
-</a>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaaurav03&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaaurav03&theme=github_dark" />
+</p>
 
 <br/>
 <br/>
