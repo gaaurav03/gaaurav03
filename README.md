@@ -21,12 +21,12 @@
 ```javascript
 const Gaurav = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "dsa"],
+  code: ["Javascript", "TypeScript", "C++"],
+  askMeAbout: ["web dev", "dsa", "ai_agents"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap","Tailwind CSS"],
+      frontend: ["Tailwind", "JS", "Next.js", "React.js"],
       backend: ["Node,js", "Express.js"],
-      database: ["MongoDB", "Firebase"]
+      database: ["MongoDB", "Firebase", "PostgreSQL", "Prisma + Dribble ORM"]
   }
 }
 ```
